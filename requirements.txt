@@ -1,0 +1,3 @@
+mkdocs>=1.4.2
+# Optional: install a theme such as mkdocs-material for a nicer look
+# mkdocs-material
